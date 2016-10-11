@@ -71,3 +71,5 @@ install_manifest.txt
 *.app
 
 .idea
+
+._*

@@ -52,6 +52,8 @@ or console:
     
 ```
 
+Added suport for get "MCU_SPEED" as "F_CPU" from CmakeList.txt to source c and h files
+
 #### LICENSE
 
 cmake-avr is licensed under the [MIT License (MIT)](https://github.com/e154/cmake-avr/blob/dev/LICENSE)
